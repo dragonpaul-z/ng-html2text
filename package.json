@@ -1,0 +1,19 @@
+{
+  "name": "@username/ng-html2text",
+  "version": "0.0.1",
+  "description": "Simple AngularJS $filter to convert HTML to plain text.",
+  "main": "ngHtml2Text.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragonpaul-z/ng-html2text.git"
+  },
+  "author": "Paul Zietsman <phzietsman@gmail.com> (https://github.com/dragonpaul-z)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragonpaul-z/ng-html2text/issues"
+  },
+  "homepage": "https://github.com/dragonpaul-z/ng-html2text#readme"
+}
