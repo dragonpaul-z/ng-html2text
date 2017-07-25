@@ -1,7 +1,7 @@
 # ng-html2text #
 
 ## Install ##
-	npm install @dragonpaul-z/ng-html2text
+	npm install ng-html2text
 	
 ## Usage ##
 
