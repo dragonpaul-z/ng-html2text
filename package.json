@@ -1,5 +1,5 @@
 {
-  "name": "@username/ng-html2text",
+  "name": "ng-html2text",
   "version": "0.0.1",
   "description": "Simple AngularJS $filter to convert HTML to plain text.",
   "main": "ngHtml2Text.js",
