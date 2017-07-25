@@ -1,6 +1,6 @@
 {
   "name": "ng-html2text",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple AngularJS $filter to convert HTML to plain text.",
   "main": "ngHtml2Text.js",
   "scripts": {
